@@ -1,0 +1,153 @@
+<resources>
+    <!-- Config-->
+    <string name="facebook_app_id">399266913764166</string>
+    <!--<string name="websocket_server">http://tedngok.com:8081</string>-->
+    <string name="websocket_server">https://tedngok.com:8081</string>
+    <string name="file_server">https://tedngok.com:8082</string>
+    <string name="app_name">Class Management System</string>
+    <string name="powered">Powered By Ngok Yuen Tat</string>
+
+    <!--hint-->
+    <string name="hint_query">Class ID/Name/Address</string>
+    <string name="hint_attachment_query">Class/Student (eg: abc ted 1305894)</string>
+    <string name="search_student_hint">Keyword eg: Ted 1234</string>
+    <!-- JSON result-->
+    <string name="result">result</string>
+    <!-- Main -->
+    <string name="title_sms">SMS</string>
+    <string name="title_edit_billing">Edit Billing</string>
+    <string name="title_activity_billing">Billing</string>
+    <string name="title_activity_billings">Billings</string>
+    <string name="title_activity_login">Teacher Sign in</string>
+    <string name="title_activity_main">CMS</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_add_student">Add Student</string>
+    <string name="title_activity_edit_student">Edit Student</string>
+    <string name="title_activity_add_class">Add Class</string>
+    <string name="title_delete_student">Delete Student?</string>
+    <string name="title_activity_search_classes_result">Search Classes Result</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_receommend_class">Recommend Class</string>
+    <string name="title_activity_join_class">Join Class(Search By Student)</string>
+    <string name="title_activity_edit_class">Edit Class</string>
+    <!--SharedPerformance-->
+    <string name="login_preference_file">login</string>
+    <string name="token">token</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="select_all">Select All</string>
+    <string name="cancel_all">Cancel All</string>
+    <string name="qualification">Qualification</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="action_logout">Sign out</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_profile">Profile</string>
+    <string name="all">All</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="name_quote">Name:</string>
+    <string name="hkid_passort_quote">HKID/Passport:</string>
+    <string name="search">Search</string>
+    <string name="reset">Reset</string>
+    <string name="only">Only</string>
+    <string name="class_available">class available</string>
+    <string name="classes_available">classes available</string>
+    <string name="classes_recommend">recommend classes</string>
+    <string name="class_recommend">recommend class</string>
+    <string name="date_from">Date From</string>
+    <string name="date_to">Date To</string>
+    <string name="time_from">Time From</string>
+    <string name="time_to">Time To</string>
+    <string name="price_from">Price From</string>
+    <string name="price_to">Price To</string>
+    <string name="submit">submit</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="home">Home No</string>
+    <string name="address">Address</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="re_password">Retype Password</string>
+    <string name="student_id">Student ID</string>
+    <string name="class_id">Class ID</string>
+    <string name="hkid">HKID/Passport No</string>
+    <string name="class_name">Class Name</string>
+    <string name="price">Price</string>
+    <string name="status">Status</string>
+    <string name="statusOpen">Open</string>
+    <string name="statusBegin">Begin</string>
+    <string name="statusCompleted">Completed</string>
+    <string name="statusCancel">Cancel</string>
+    <string name="teachers">Teachers</string>
+    <string name="type">Type</string>
+    <string name="click_me">Click Me</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="start_quote">Start:</string>
+    <string name="end_quote">End:</string>
+    <string name="student">Student</string>
+    <string name="students">Students</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="class_hours">Class Hours</string>
+    <string name="no_of_lession">No of Lession</string>
+    <string name="max_students">Max Students</string>
+    <string name="min_level">Condition 1</string>
+    <string name="min_level2">Condition 2</string>
+    <string name="min_level3">Condition 3</string>
+    <string name="min_level4">Condition 4</string>
+    <string name="min_level5">Condition 5</string>
+    <string name="individual">Individual</string>
+    <string name="small">Small</string>
+    <string name="join">Join</string>
+    <string name="alert_title">CMS Alert</string>
+    <string name="take_photo_capture">Take Photo Capture</string>
+    <string name="take_photo_from_file">Take Photo From File</string>
+    <string name="student_name">Student Name</string>
+
+    <string name="edit">Edit</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="delete">Delete</string>
+    <string name="recommend">Recommend</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="take_video_capture">Take Video Capture</string>
+    <string name="gallery">Gallery</string>
+    <string name="_new">New</string>
+    <string name="description">Description</string>
+    <string name="student_billing">STUDENTS AND BILLING</string>
+    <string name="history_billing">HISTORY AND BILLING</string>
+    <string name="sms">SMS</string>
+    <string name="colon">:</string>
+    <string name="sms_content">SMS Content</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weekly">Weekly</string>
+    <string name="schedule">Schedule</string>
+    <string name="msg_socket_connect_fail">Your network connection is failed, Please wait a moment...</string>
+    <string name="subject">Subject</string>
+    <string name="content">Content</string>
+    <string name="teacher">Teacher</string>
+    <string name="add_teacher">Add Teacher</string>
+    <string name="teacher_name">Teacher Name</string>
+
+</resources>

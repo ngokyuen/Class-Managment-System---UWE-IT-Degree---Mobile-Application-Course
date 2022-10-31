@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg_error_wrong_range">The range is wrong</string>
+    <string name="msg_error_time_from_to">The range of Time is wrong</string>
+    <string name="msg_error_price_from_to">The range of Price is wrong</string>
+    <string name="msg_error_min_level_value">The range is 1 to 9</string>
+    <string name="msg_register_success">Register Account Success</string>
+    <string name="msg_empty_retype_password">Retype Password is Empty</string>
+    <string name="msg_password_and_retype_not_same">Not the same password and retype password</string>
+    <string name="msg_add_class_schedule">Add New Class Schedule</string>
+    <string name="error_empty_data">Empty Data, Please try it later!</string>
+    <string name="msg_confirm_delete">Are you sure to delete?</string>
+    <string name="msg_send_sms_succcess">Send SMS Successfully!</string>
+    <string name="msg_confirm_send_sms">Are you confirm to send sms?</string>
+    <string name="msg_delete_confirm">Are you confirm to delete?</string>
+    <string name="msg_selection_duplicate">Selection Duplicate</string>
+    <string name="msg_delete_student_success">Delete Student Successfully!</string>
+    <string name="msg_update_image_success">Update File Successfully!</string>
+    <string name="msg_update_success">Update Successfully!</string>
+    <string name="msg_edit_success">Edit Successfully!</string>
+    <string name="msg_add_success">Created Successfully!</string>
+    <string name="msg_join_success">Join Successfully!</string>
+    <string name="error_try_again_later">Please try again later!</string>
+    <string name="error_retype_password_not_match">Password and Retype Password not match!</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_empty">Not Accept Empty!</string>
+    <string name="error_more_99">Limit 1-99</string>
+    <string name="error_empty_result">Empty Result, Please revise your conditions!</string>
+
+    <string name="error_code_level_not_enough">100</string>
+    <string name="error_field_required">This field is required</string>
+
+</resources>

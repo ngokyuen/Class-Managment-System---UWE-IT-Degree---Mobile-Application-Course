@@ -1,0 +1,3 @@
+API Server Start
+a client connected.
+client add class:{"token":"tedngok@gmail.com","class_id":"test","name":"test","address":"test","max_students":"3","min_level":"2","price":"1","status":"","jsonType":"individual"}

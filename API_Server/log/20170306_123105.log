@@ -1,0 +1,26 @@
+API Server Start
+a client connected.
+client add class:{"token":"tedngok@gmail.com","class_id":"12","name":"21","address":"31","price":"34","min_level_type":"English","min_level":"1","min_level_type2":"Japanese","min_level2":"3","jsonType":"individual"}
+a client disconnect.
+a client connected.
+a client disconnect.
+a client connected.
+a client disconnect.
+a client connected.
+a client disconnect.
+a client connected.
+client add class:{"token":"tedngok@gmail.com","class_id":"65","name":"4","address":"3","price":"2","jsonType":"individual"}
+client add class:{"token":"tedngok@gmail.com","class_id":"65","name":"4","address":"3","price":"2","jsonType":"individual"}
+client add class:{"token":"tedngok@gmail.com","class_id":"654 ","name":"4","address":"3","price":"2","jsonType":"individual"}
+a client disconnect.
+a client connected.
+client add class:{"token":"tedngok@gmail.com","class_id":"1","name":"2","address":"3","price":"4","type":"individual"}
+client add class:{"token":"tedngok@gmail.com","class_id":"12","name":"2","address":"3","price":"4","type":"individual"}
+a client disconnect.
+a client connected.
+client add class:{"token":"tedngok@gmail.com","class_id":"999","name":"88","address":"77","price":"6","type":"individual"}
+client add class:{"token":"tedngok@gmail.com","class_id":"999","name":"88","address":"77","price":"6","type":"individual"}
+a client disconnect.
+a client connected.
+client add class:{"token":"tedngok@gmail.com","class_id":"1","name":"1","address":"1","price":"1","min_level_type":"English","min_level":1,"type":"individual"}
+a client disconnect.

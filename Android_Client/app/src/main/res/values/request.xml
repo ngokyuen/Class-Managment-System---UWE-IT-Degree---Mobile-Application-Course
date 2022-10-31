@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!---->
+    <string name="jsonTeachers">teachers</string>
+    <string name="jsonClassSchedules">class_schedules</string>
+    <string name="jsonWeekly">weekly</string>
+    <string name="jsonSMSs">smss</string>
+    <string name="jsonBillings">billings</string>
+    <string name="jsonBilling">billing</string>
+    <string name="jsonContents">contents</string>
+    <string name="jsonID">_id</string>
+    <string name="jsonCreatedAt">created_at</string>
+    <string name="jsonDescription">description</string>
+    <string name="jsonAttachFilePath">file_path</string>
+    <string name="jsonAttachExtensionMP4">.mp4</string>
+    <string name="jsonAttachExtensionPNG">.png</string>
+    <string name="jsonAttachFileName">file_name</string>
+    <string name="jsonAttachExtension">file_extension</string>
+    <string name="jsonAttachType">file_type</string>
+    <string name="jsonAttachments">attachments</string>
+    <string name="jsonAttachment">attachment</string>
+    <string name="jsonErrorCode">error_code</string>
+    <string name="jsonQualifications">qualifications</string>
+    <string name="jsonQualificationType">type</string>
+    <string name="jsonQualificationLevel">level</string>
+    <string name="jsonVideo">video</string>
+    <string name="jsonImage">image</string>
+    <string name="jsonErrorMessage">error_message</string>
+    <string name="jsonStudent">student</string>
+    <string name="jsonClass">class</string>
+    <string name="jsonLat">latitude</string>
+    <string name="jsonLng">longitude</string>
+    <string name="jsonClasses">classes</string>
+    <string name="jsonQuery">query</string>
+    <string name="jsonPriceFrom">price_from</string>
+    <string name="jsonPriceTo">price_to</string>
+    <string name="jsonDateFrom">date_from</string>
+    <string name="jsonDateTo">date_to</string>
+    <string name="jsonTimeFrom">time_from</string>
+    <string name="jsonTimeTo">time_to</string>
+    <string name="jsonUsers">users</string>
+    <string name="jsonUser">user</string>
+    <string name="jsonErrorMsg">error_msg</string>
+    <string name="jsonToken">token</string>
+    <string name="jsonResult">result</string>
+    <string name="jsonFirstName">firstname</string>
+    <string name="jsonLastName">lastname</string>
+    <string name="jsonMobileNo">mobile_no</string>
+    <string name="jsonHomeNo">home_no</string>
+    <string name="jsonAddress">address</string>
+    <string name="jsonMale">male</string>
+    <string name="jsonFemale">female</string>
+    <string name="jsonGender">gender</string>
+    <string name="jsonEmail">email</string>
+    <string name="jsonPassword">password</string>
+    <string name="jsonHKID">hkid</string>
+    <string name="jsonStudentID">student_id</string>
+    <string name="jsonStudents">students</string>
+    <string name="jsonClassID">class_id</string>
+    <string name="jsonClassName">name</string>
+    <string name="jsonMaxStudents">max_students</string>
+    <string name="jsonMinLevel">min_level</string>
+    <string name="jsonMinLevelFrom">min_level_from</string>
+    <string name="jsonMinLevelTo">min_level_to</string>
+    <string name="jsonMinLevel2">min_level2_from</string>
+    <string name="jsonMinLevel2From">min_level2</string>
+    <string name="jsonMinLevel2To">min_level2_to</string>
+    <string name="jsonMinLevel3">min_level3</string>
+    <string name="jsonMinLevel3From">min_level3_from</string>
+    <string name="jsonMinLevel3To">min_level3_to</string>
+    <string name="jsonMinLevelType">min_level_type</string>
+    <string name="jsonMinLevelType2">min_level_type2</string>
+    <string name="jsonMinLevelType3">min_level_type3</string>
+    <string name="jsonPrice">price</string>
+    <string name="jsonStatus">status</string>
+    <string name="jsonStatusOpen">open</string>
+    <string name="jsonStatusCancel">cancel</string>
+    <string name="jsonStatusBeginning">beginning</string>
+    <string name="jsonStatusCompleted">completed</string>
+    <string-array name="status">
+        <item>Open</item>
+        <item>Cancel</item>
+        <item>Beginning</item>
+        <item>Completed</item>
+    </string-array>
+    <string-array name="statusValue">
+        <item>open</item>
+        <item>cancel</item>
+        <item>beginning</item>
+        <item>completed</item>
+    </string-array>
+    <string-array name="minLevelType">
+        <item></item>
+        <item>Violin</item>
+        <item>Music Theory</item>
+        <item>English</item>
+        <item>Japanese</item>
+        <item>Cantonese</item>
+    </string-array>
+    <string-array name="billingStatus">
+        <item>Pending</item>
+        <item>Confirmed</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="billingStatusValue">
+        <item>pending</item>
+        <item>confirmed</item>
+        <item>cancel</item>
+    </string-array>
+    <string name="jsonType">type</string>
+    <string name="jsonTypeIndividual">individual</string>
+    <string name="jsonTypeSmall">small</string>
+    <string name="jsonStartDate">start_date</string>
+    <string name="jsonEndDate">end_date</string>
+    <string name="jsonStartTime">start_time</string>
+    <string name="jsonEndTime">end_time</string>
+    <string name="jsonClassHours">hours</string>
+    <string name="jsonNoOfLession">no_of_lession</string>
+
+</resources>

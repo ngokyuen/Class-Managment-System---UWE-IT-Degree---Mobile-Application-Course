@@ -1,0 +1,8 @@
+API Server Start
+a client connected.
+a client disconnect.
+a client connected.
+client getStudents:{"query":"m","token":"tedngok@gmail.com"}
+client add class:{"token":"tedngok@gmail.com","class_id":"999","name":"999","address":"999","price":"999","min_level_type":"Music Theory","min_level":"3","min_level_type2":"Violin","min_level2":"1","jsonType":"individual"}
+client add class:{"token":"tedngok@gmail.com","class_id":"999","name":"999","address":"999","price":"999","min_level_type":"Music Theory","min_level":"3","min_level_type2":"Violin","min_level2":"1","jsonType":"individual"}
+a client disconnect.

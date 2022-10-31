@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_class_schedulas"
+            android:icon="@android:drawable/ic_menu_my_calendar"
+            android:title="Class Schedule" />
+        <item
+            android:id="@+id/nav_students"
+            android:icon="@drawable/user"
+            android:title="Student" />
+        <item
+            android:id="@+id/nav_classes"
+            android:icon="@drawable/class26x26"
+            android:title="Class" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_sms_log"
+                android:icon="@drawable/ic_menu_share"
+                android:title="SMS Log" />
+        </menu>
+    </item>
+
+</menu>
